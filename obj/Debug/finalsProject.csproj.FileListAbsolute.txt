@@ -1,0 +1,480 @@
+C:\Users\hp\OneDrive\Desktop\finalsProject\bin\Debug\finalsProject.exe.config
+C:\Users\hp\OneDrive\Desktop\finalsProject\bin\Debug\finalsProject.exe
+C:\Users\hp\OneDrive\Desktop\finalsProject\bin\Debug\finalsProject.pdb
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.exe
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.pdb
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.loading.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.signIn.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.signUp.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.login.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.temp.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.StaffMenu.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.staffCredentials.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.deliveryManMenu.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.staffTakeOrders.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.staffViewOrders.resources
+C:\Users\hp\OneDrive\Desktop\finalsProject\obj\Debug\finalsProject.staffViewTables.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\bin\Debug\finalsProject.exe.config
+C:\Users\SL Laptop\Downloads\finalsProject (1)\bin\Debug\finalsProject.exe
+C:\Users\SL Laptop\Downloads\finalsProject (1)\bin\Debug\finalsProject.pdb
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.addDeliveryMan.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.addStaff.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.login.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.staffViewOrders.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.temp.resources
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.exe
+C:\Users\SL Laptop\Downloads\finalsProject (1)\obj\Debug\finalsProject.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\bin\Debug\finalsProject.exe.config
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\bin\Debug\finalsProject.exe
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\bin\Debug\finalsProject.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.csproj.SuggestedBindingRedirects.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.addDeliveryMan.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.addStaff.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.login.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.staffViewOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.exe
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (1)\obj\Debug\finalsProject.pdb
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.SuggestedBindingRedirects.cache
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.addDeliveryMan.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.addStaff.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.login.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffViewOrders.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.exe
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.pdb
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\bin\Debug\finalsProject.exe.config
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\bin\Debug\finalsProject.exe
+C:\University\DBS\final\finalsProject (1)\finalsProject (1)\bin\Debug\finalsProject.pdb
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\bin\Debug\finalsProject.exe.config
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\bin\Debug\finalsProject.exe
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\bin\Debug\finalsProject.pdb
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.addDeliveryMan.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.addStaff.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.login.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffViewOrders.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.exe
+C:\Users\hp\Downloads\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.addDeliveryMan.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.AddMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.addStaff.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.AddTables.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.AssignTableToStaff.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.BillGeneration.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.Cart.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.DeliveryDetails.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.Orders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.login.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffViewOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.temp.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.trykryptotools.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.exe
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\bin\Debug\finalsProject.exe.config
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\bin\Debug\finalsProject.exe
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\bin\Debug\finalsProject.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (2)\finalsProject (1)\finalsProject (1)\obj\Debug\finalsProject.csproj.CopyComplete
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.csproj.SuggestedBindingRedirects.cache
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.AddMenu.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.AddTables.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.AssignTableToStaff.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.BillGeneration.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.Cart.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.Orders.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.login.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.staffViewOrders.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.temp.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.exe
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.pdb
+C:\University\DBS\final\finalsProject (1)\bin\Debug\finalsProject.exe.config
+C:\University\DBS\final\finalsProject (1)\bin\Debug\finalsProject.exe
+C:\University\DBS\final\finalsProject (1)\bin\Debug\finalsProject.pdb
+C:\University\DBS\final\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.csproj.CopyComplete
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.updateStaff.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.Assigndeliveryorders.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.AddStaff.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.StaffChooseTable.resources
+C:\University\DBS\final\finalsProject (1)\obj\Debug\finalsProject.Quantity.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe.config
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.pdb
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.SuggestedBindingRedirects.cache
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddStaff.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Assigndeliveryorders.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Quantity.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffChooseTable.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.updateStaff.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddTables.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AssignTableToStaff.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.BillGeneration.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Cart.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Orders.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.login.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.temp.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CopyComplete
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.exe
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.pdb
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerBill.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddMenus.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddDeliveyDetails.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SelectDeliveryDetails.resources
+C:\University\DBS\final\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerViewOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe.config
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddDeliveyDetails.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddStaff.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddMenus.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Assigndeliveryorders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerBill.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Quantity.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SelectDeliveryDetails.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffChooseTable.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.updateStaff.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddTables.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AssignTableToStaff.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.BillGeneration.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Cart.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Orders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.login.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerViewOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.temp.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CopyComplete
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.exe
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.pdb
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.SuggestedBindingRedirects.cache
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddDeliveyDetails.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddStaff.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddMenus.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Assigndeliveryorders.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerBill.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Quantity.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SelectDeliveryDetails.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffChooseTable.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.updateStaff.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddTables.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AssignTableToStaff.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.BillGeneration.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Cart.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Orders.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.login.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerViewOrders.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.temp.resources
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.exe
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.pdb
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe.config
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.pdb
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\University\DBS\final\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CopyComplete
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddDeliveyDetails.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddStaff.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddMenus.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Assigndeliveryorders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerBill.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Quantity.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SelectDeliveryDetails.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffChooseTable.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.updateStaff.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddTables.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AssignTableToStaff.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.BillGeneration.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Cart.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Orders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.login.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerViewOrders.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.temp.resources
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.exe
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe.config
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\4th Semester\DB Lab\DBFinalProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CopyComplete
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe.config
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.exe
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\finalsProject.pdb
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddDeliveyDetails.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddStaff.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddMenus.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Assigndeliveryorders.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerBill.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Quantity.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SelectDeliveryDetails.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffChooseTable.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.updateStaff.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AddTables.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.AssignTableToStaff.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.BillGeneration.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Cart.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustCredentials.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.customerMenu.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerOrder.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.CustomerViewOrder.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.custReserveTable.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryCredntials.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.deliveryManMenu.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.DeliveryViewOrders.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.loading.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerMenu.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Orders.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.login.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffCredentials.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.StaffMenu.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffTakeOrders.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.ManagerViewOrders.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.staffViewTables.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.temp.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CopyComplete
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.exe
+E:\5th semester\SE LAB\SEProject\finalsProject (8)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.pdb
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.login.resources
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.exe
+E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.pdb

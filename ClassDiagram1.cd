@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="finalsProject.Classes.Customer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAiAAAAIAAAAAA=</HashCode>
+      <FileName>Classes\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalsProject.Classes.Bill">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAEAAAABAAA=</HashCode>
+      <FileName>Classes\Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalsProject.Classes.Menu">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAgAAAAIAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalsProject.Classes.OrderItems">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>Classes\OrderItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalsProject.Classes.Orders">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAKAAAACgAAAAAAAAAAAAAAAAAAAAAAAAAAgAIAA=</HashCode>
+      <FileName>Classes\Orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalsProject.Classes.Reservation">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Reservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalsProject.Classes.Staff">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAACAIAAAgAAAAAAAAAAAAAAIAAAAiAAAAIAAAACA=</HashCode>
+      <FileName>Classes\Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalsProject.Classes.Table">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalsProject.Classes.User">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAChAAACoAQAAgAEAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>Classes\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
