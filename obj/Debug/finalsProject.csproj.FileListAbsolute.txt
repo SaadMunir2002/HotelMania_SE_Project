@@ -478,3 +478,14 @@ E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\fina
 E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
 E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.exe
 E:\5th semester\SE LAB\SEProject\finalsProject - Copy (2)\finalsProject (4)\finalsProject (3)\finalsProject (3)\finalsProject (1)\obj\Debug\finalsProject.pdb
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.csproj.AssemblyReference.cache
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.AddFoodCategories.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.signIn.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.signUp.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.login.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.Properties.Resources.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.SigninOthers.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.csproj.GenerateResource.cache
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.exe
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.pdb
