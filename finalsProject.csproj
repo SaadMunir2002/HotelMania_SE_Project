@@ -54,6 +54,10 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddFoodCategories.Designer.cs" />
+    <Compile Include="BillGeneration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillGeneration.Designer.cs" />
     <Compile Include="Classes\DeliveryDetailsDL.cs" />
     <Compile Include="Classes\AssignedTask.cs" />
     <Compile Include="Classes\assignedtaskDl.cs" />
@@ -105,6 +109,7 @@
       <DependentUpon>SigninOthers.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="AddFoodCategories.resx" />
+    <EmbeddedResource Include="BillGeneration.resx" />
     <EmbeddedResource Include="signIn.resx">
       <DependentUpon>signIn.cs</DependentUpon>
     </EmbeddedResource>
