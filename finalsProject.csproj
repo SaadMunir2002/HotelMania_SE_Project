@@ -54,6 +54,10 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddFoodCategories.Designer.cs" />
+    <Compile Include="AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStaff.Designer.cs" />
     <Compile Include="BillGeneration.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -108,7 +112,12 @@
     <Compile Include="SigninOthers.Designer.cs">
       <DependentUpon>SigninOthers.cs</DependentUpon>
     </Compile>
+    <Compile Include="updateStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateStaff.Designer.cs" />
     <EmbeddedResource Include="AddFoodCategories.resx" />
+    <EmbeddedResource Include="AddStaff.resx" />
     <EmbeddedResource Include="BillGeneration.resx" />
     <EmbeddedResource Include="signIn.resx">
       <DependentUpon>signIn.cs</DependentUpon>
@@ -132,6 +141,7 @@
     <EmbeddedResource Include="SigninOthers.resx">
       <DependentUpon>SigninOthers.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="updateStaff.resx" />
     <None Include="ClassDiagram1.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
