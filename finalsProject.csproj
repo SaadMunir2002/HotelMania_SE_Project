@@ -50,6 +50,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddDeliveyDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDeliveyDetails.Designer.cs" />
     <Compile Include="AddFoodCategories.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,10 +62,26 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddStaff.Designer.cs" />
+    <Compile Include="AddTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTables.Designer.cs" />
+    <Compile Include="Assigndeliveryorders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assigndeliveryorders.Designer.cs" />
+    <Compile Include="AssignTableToStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignTableToStaff.Designer.cs" />
     <Compile Include="BillGeneration.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="BillGeneration.Designer.cs" />
+    <Compile Include="Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cart.Designer.cs" />
     <Compile Include="Classes\DeliveryDetailsDL.cs" />
     <Compile Include="Classes\AssignedTask.cs" />
     <Compile Include="Classes\assignedtaskDl.cs" />
@@ -86,6 +106,14 @@
     <Compile Include="Classes\User.cs" />
     <Compile Include="Classes\UserDL.cs" />
     <Compile Include="Configuration.cs" />
+    <Compile Include="Quantity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quantity.Designer.cs" />
+    <Compile Include="SelectDeliveryDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectDeliveryDetails.Designer.cs" />
     <Compile Include="signIn.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -116,9 +144,15 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="updateStaff.Designer.cs" />
+    <EmbeddedResource Include="AddDeliveyDetails.resx" />
     <EmbeddedResource Include="AddFoodCategories.resx" />
     <EmbeddedResource Include="AddStaff.resx" />
+    <EmbeddedResource Include="AddTables.resx" />
+    <EmbeddedResource Include="Assigndeliveryorders.resx" />
+    <EmbeddedResource Include="AssignTableToStaff.resx" />
     <EmbeddedResource Include="BillGeneration.resx" />
+    <EmbeddedResource Include="Cart.resx" />
+    <EmbeddedResource Include="SelectDeliveryDetails.resx" />
     <EmbeddedResource Include="signIn.resx">
       <DependentUpon>signIn.cs</DependentUpon>
     </EmbeddedResource>

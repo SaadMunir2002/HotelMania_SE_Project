@@ -489,3 +489,12 @@ E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.cspro
 E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.csproj.CoreCompileInputs.cache
 E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.exe
 E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.pdb
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.AddDeliveyDetails.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.AddStaff.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.AddTables.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.Assigndeliveryorders.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.AssignTableToStaff.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.BillGeneration.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.Cart.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.SelectDeliveryDetails.resources
+E:\5th semester\SE LAB\SEProject\finalsProject (1)\obj\Debug\finalsProject.updateStaff.resources
