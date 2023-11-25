@@ -118,6 +118,14 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CustomerOrder.Designer.cs" />
+    <Compile Include="CustomerViewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerViewOrder.Designer.cs" />
+    <Compile Include="custReserveTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="custReserveTable.Designer.cs" />
     <Compile Include="Quantity.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -167,6 +175,8 @@
     <EmbeddedResource Include="CustCredentials.resx" />
     <EmbeddedResource Include="customerMenu.resx" />
     <EmbeddedResource Include="CustomerOrder.resx" />
+    <EmbeddedResource Include="CustomerViewOrder.resx" />
+    <EmbeddedResource Include="custReserveTable.resx" />
     <EmbeddedResource Include="SelectDeliveryDetails.resx" />
     <EmbeddedResource Include="signIn.resx">
       <DependentUpon>signIn.cs</DependentUpon>
