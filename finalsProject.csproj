@@ -106,6 +106,18 @@
     <Compile Include="Classes\User.cs" />
     <Compile Include="Classes\UserDL.cs" />
     <Compile Include="Configuration.cs" />
+    <Compile Include="CustCredentials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustCredentials.Designer.cs" />
+    <Compile Include="customerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customerMenu.Designer.cs" />
+    <Compile Include="CustomerOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerOrder.Designer.cs" />
     <Compile Include="Quantity.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -152,6 +164,9 @@
     <EmbeddedResource Include="AssignTableToStaff.resx" />
     <EmbeddedResource Include="BillGeneration.resx" />
     <EmbeddedResource Include="Cart.resx" />
+    <EmbeddedResource Include="CustCredentials.resx" />
+    <EmbeddedResource Include="customerMenu.resx" />
+    <EmbeddedResource Include="CustomerOrder.resx" />
     <EmbeddedResource Include="SelectDeliveryDetails.resx" />
     <EmbeddedResource Include="signIn.resx">
       <DependentUpon>signIn.cs</DependentUpon>
