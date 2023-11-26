@@ -58,6 +58,10 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddFoodCategories.Designer.cs" />
+    <Compile Include="AddMenus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMenus.Designer.cs" />
     <Compile Include="AddStaff.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -126,6 +130,30 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="custReserveTable.Designer.cs" />
+    <Compile Include="deliveryCredntials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deliveryCredntials.Designer.cs" />
+    <Compile Include="deliveryManMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deliveryManMenu.Designer.cs" />
+    <Compile Include="DeliveryViewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeliveryViewOrders.Designer.cs" />
+    <Compile Include="ManagerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerMenu.Designer.cs" />
+    <Compile Include="ManagerViewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerViewOrders.Designer.cs" />
+    <Compile Include="Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orders.Designer.cs" />
     <Compile Include="Quantity.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -160,12 +188,33 @@
     <Compile Include="SigninOthers.Designer.cs">
       <DependentUpon>SigninOthers.cs</DependentUpon>
     </Compile>
+    <Compile Include="StaffChooseTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffChooseTable.Designer.cs" />
+    <Compile Include="staffCredentials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffCredentials.Designer.cs" />
+    <Compile Include="StaffMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffMenu.Designer.cs" />
+    <Compile Include="staffTakeOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffTakeOrders.Designer.cs" />
+    <Compile Include="staffViewTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffViewTables.Designer.cs" />
     <Compile Include="updateStaff.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="updateStaff.Designer.cs" />
     <EmbeddedResource Include="AddDeliveyDetails.resx" />
     <EmbeddedResource Include="AddFoodCategories.resx" />
+    <EmbeddedResource Include="AddMenus.resx" />
     <EmbeddedResource Include="AddStaff.resx" />
     <EmbeddedResource Include="AddTables.resx" />
     <EmbeddedResource Include="Assigndeliveryorders.resx" />
@@ -177,6 +226,12 @@
     <EmbeddedResource Include="CustomerOrder.resx" />
     <EmbeddedResource Include="CustomerViewOrder.resx" />
     <EmbeddedResource Include="custReserveTable.resx" />
+    <EmbeddedResource Include="deliveryCredntials.resx" />
+    <EmbeddedResource Include="deliveryManMenu.resx" />
+    <EmbeddedResource Include="DeliveryViewOrders.resx" />
+    <EmbeddedResource Include="ManagerMenu.resx" />
+    <EmbeddedResource Include="ManagerViewOrders.resx" />
+    <EmbeddedResource Include="Orders.resx" />
     <EmbeddedResource Include="SelectDeliveryDetails.resx" />
     <EmbeddedResource Include="signIn.resx">
       <DependentUpon>signIn.cs</DependentUpon>
@@ -200,6 +255,11 @@
     <EmbeddedResource Include="SigninOthers.resx">
       <DependentUpon>SigninOthers.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="StaffChooseTable.resx" />
+    <EmbeddedResource Include="staffCredentials.resx" />
+    <EmbeddedResource Include="StaffMenu.resx" />
+    <EmbeddedResource Include="staffTakeOrders.resx" />
+    <EmbeddedResource Include="staffViewTables.resx" />
     <EmbeddedResource Include="updateStaff.resx" />
     <None Include="ClassDiagram1.cd" />
     <None Include="Properties\Settings.settings">
