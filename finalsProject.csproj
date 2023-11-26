@@ -114,6 +114,10 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CustCredentials.Designer.cs" />
+    <Compile Include="CustomerBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerBill.Designer.cs" />
     <Compile Include="customerMenu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -222,6 +226,7 @@
     <EmbeddedResource Include="BillGeneration.resx" />
     <EmbeddedResource Include="Cart.resx" />
     <EmbeddedResource Include="CustCredentials.resx" />
+    <EmbeddedResource Include="CustomerBill.resx" />
     <EmbeddedResource Include="customerMenu.resx" />
     <EmbeddedResource Include="CustomerOrder.resx" />
     <EmbeddedResource Include="CustomerViewOrder.resx" />
